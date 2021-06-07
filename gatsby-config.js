@@ -18,7 +18,7 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-slug`,
+
     `gatsby-transformer-sharp`, // Needed for dynamic images
     {
       resolve: `gatsby-source-contentful`,
